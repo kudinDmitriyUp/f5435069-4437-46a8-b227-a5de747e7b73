@@ -42,7 +42,7 @@ export default function LandingPage() {
           title="Yama Retreat"
           description="Experience the serene beauty of Japanese mountains combined with timeless hospitality and classical elegance"
           tag="Premium Mountain Sanctuary"
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763740425590-257xirxx.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763744261133-0jtdh6lf.jpg"
           imageAlt="Japanese mountain landscape at sunrise"
           frameStyle="card"
           buttons={[
